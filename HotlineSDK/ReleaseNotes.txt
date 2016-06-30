@@ -2,10 +2,13 @@ Hotline iOS SDK - Powered by Freshdesk
 
 Documentation   : https://hotline.freshdesk.com/support/solutions
 Support Email   : support@hotline.io 
-Version         : DEV
+Version         : 1.1.1
 
-Ver DEV 
+Ver 1.1.1 
 __________________________
+You can now hide contact us on the FAQ screens 
+You can show a  filtered view of articles by tags. 
+Minor fixes and improvements. 
 
 Ver 1.1.0 
 __________________________
