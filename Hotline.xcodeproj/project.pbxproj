@@ -29,7 +29,7 @@
 		35955D501C6BB947002FED41 /* FDSettingsController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35955D4F1C6BB947002FED41 /* FDSettingsController.m */; };
 		35955D5A1C6BBA52002FED41 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 35955D591C6BBA52002FED41 /* ViewController.m */; };
 		35CB8E911D460E930075C912 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35CB8E901D460E930075C912 /* Images.xcassets */; };
-		35CB8E961D461E630075C912 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35CB8E951D461E630075C912 /* LaunchScreen.xib */; };
+		35CB8E981D462AA70075C912 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35CB8E971D462AA70075C912 /* LaunchScreen.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,7 +61,7 @@
 		35955D581C6BBA52002FED41 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		35955D591C6BBA52002FED41 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		35CB8E901D460E930075C912 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		35CB8E941D461E630075C912 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
+		35CB8E971D462AA70075C912 /* LaunchScreen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LaunchScreen.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,7 +119,7 @@
 				3577E1CC1C556EBD00E2121A /* AppDelegate.h */,
 				3577E1CD1C556EBD00E2121A /* AppDelegate.m */,
 				351835031D253E81000EB496 /* Main.storyboard */,
-				35CB8E951D461E630075C912 /* LaunchScreen.xib */,
+				35CB8E971D462AA70075C912 /* LaunchScreen.xib */,
 				35955D4E1C6BB947002FED41 /* FDSettingsController.h */,
 				35955D4F1C6BB947002FED41 /* FDSettingsController.m */,
 				35955D581C6BBA52002FED41 /* ViewController.h */,
@@ -230,7 +230,7 @@
 				3518350D1D2564B8000EB496 /* HLResources.bundle in Resources */,
 				351835101D2564B8000EB496 /* ReleaseNotes.txt in Resources */,
 				3518350E1D2564B8000EB496 /* KonotorModels.bundle in Resources */,
-				35CB8E961D461E630075C912 /* LaunchScreen.xib in Resources */,
+				35CB8E981D462AA70075C912 /* LaunchScreen.xib in Resources */,
 				3518350C1D2564B8000EB496 /* HLLocalization.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -250,18 +250,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		35CB8E951D461E630075C912 /* LaunchScreen.xib */ = {
-			isa = PBXVariantGroup;
-			children = (
-				35CB8E941D461E630075C912 /* Base */,
-			);
-			name = LaunchScreen.xib;
-			path = "../../SDK/Hotline/Supporting Files";
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		3577E1DB1C556EBD00E2121A /* Debug */ = {
