@@ -232,6 +232,7 @@
 				3518350E1D2564B8000EB496 /* KonotorModels.bundle in Resources */,
 				35CB8E981D462AA70075C912 /* LaunchScreen.xib in Resources */,
 				3518350C1D2564B8000EB496 /* HLLocalization.bundle in Resources */,
+				3577E1D61C556EBD00E2121A /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
